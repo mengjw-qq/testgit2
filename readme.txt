@@ -1,3 +1,6 @@
 readme
 ssssssssss
-yyyyyyyyy
+<<<<<<< HEAD
+=======
+xxxxxxx
+>>>>>>> dev
