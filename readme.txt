@@ -1,6 +1,1 @@
-readme
-ssssssssss
-<<<<<<< HEAD
-=======
-xxxxxxx
->>>>>>> dev
+hello
